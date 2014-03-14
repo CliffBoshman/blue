@@ -1,0 +1,7 @@
+---
+applications:
+- name: cliffboshman_blue
+  memory: 512MB
+  instances: 1
+  host: cliffboshman_blue
+  path: .
